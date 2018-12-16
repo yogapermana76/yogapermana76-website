@@ -1,8 +1,9 @@
 # yogapermana76.github.io
 
-**PHASE0-WEEK1-Latihan pribadi (membuat Website 4 dan blogging)**
+**PHASE0-WEEK1-D5 (membuat Website pribadi dan blogging)**
 ----------------------------------
-***About This Site:*** 
+***About This Site:***
+
 Website ini berisikan tentang saya pribadi, untuk lebih lengkapnya bisa lihat di halaman "blog".
 
 ***Used Tags & Syntaxes:*** 
@@ -39,5 +40,6 @@ Website ini berisikan tentang saya pribadi, untuk lebih lengkapnya bisa lihat di
     - border, border-radius
 
 ***About Me:***
+
 Hallo guys...
 Nama saya Yoga Permana, disini saya akan membagikan article tentang pribadi saya, dan blogging pengalaman masuk ke **Hacktiv8**.
