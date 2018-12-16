@@ -1,0 +1,139 @@
+header, footer {
+    font-family: tahoma;
+}
+
+header {
+    background-color: #1a252f;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.menu a {
+    color: #fff;
+}
+
+.font-header {
+    font-size: 32px;
+}
+
+.background-color {
+    background-color: #00b894;
+    padding: 50px 0;
+    color: #fff;
+}
+
+.background-profil {
+    background-color: orange;
+    color: #fff;
+}
+
+.btn-margin {
+    margin-top: 70px;
+}
+
+.btn-margin a:hover {
+    text-decoration: none;  
+}
+
+.bg-btn {
+    padding: 20px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.bg-btn:hover {
+    background-color: #fff;
+    opacity: 0.3;
+    color: orange;
+    padding: 25px;
+    font-size: 25px;
+}
+
+.margin-foto {
+    margin-bottom: 30px;
+}
+
+.header-bottom {
+    padding: 90px 0;
+}
+
+.margintop-headerbottom {
+    margin-top: 90px;
+}
+
+.margintop {
+    margin-top: 90px;
+    margin-bottom: 120px;
+}
+
+.judul {
+    margin-bottom: 50px;
+}
+
+.border-profil {
+    border: 2px dotted #fff;
+}
+
+.icon-width {
+    font-size: 70px;
+}
+
+.font-size {
+    font-size: 16px;
+}
+
+footer {
+    background-color: #1a252f;
+    color: #fff;
+    padding: 50px 0;
+}
+
+#sosmed {
+    font-size: 30px;
+    color: #fff;
+}
+
+.footer-copyright {
+    padding: 30px 0;
+    background-color: #2d3436;
+    color: #fff;
+}
+
+
+
+/* blog */
+.bg-blog {
+    background-color: orange;
+    padding: 50px 0;
+    color: #fff;
+}
+
+.font-style-blog {
+    line-height: 30px;
+    font-family: Times New Roman;
+    font-size: 20px;
+}
+
+.font-style-blog p {
+    margin-bottom: 22px;
+}
+
+.font-style-blog h1 {
+    margin-bottom: 22px;
+}
+
+.margintop-blog {
+    margin-top: 90px;
+    margin-bottom: 60px;
+}
+
+.article {
+    padding-bottom: 100px;
+}
+
+.left-bar {
+    margin-top: 20px;
+}
+
